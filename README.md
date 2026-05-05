@@ -19,8 +19,6 @@
 
 Core contributor to a **DeFi lending protocol similar to Aave and Compound** that raised more than **$6M**, covering smart contract work, full dApp development, and multi-chain deployment across Base, Arbitrum, HyperLiquid... Also contributed to a **Curve-style StableSwap AMM** for pegged assets, working on dApp development and smart contract integration.
 
-I proactively introduced AI-assisted development tools (Cursor, Claude, Antigravity) to boost team productivity, and have experience leading small teams, conducting technical interviews, and setting up CI/CD pipelines, automated testing, and cloud infrastructure.
-
 ---
 
 ## What I Build
