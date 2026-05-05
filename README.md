@@ -63,14 +63,16 @@ Core contributor to a **DeFi lending protocol similar to Aave and Compound** tha
 
 ## Notable Projects
 
-### 🏦 DeFi Lending Protocol — *Core Contributor*
+### 🏦 DeFi Lending Protocol - *Core Contributor*
 > Inspired by Aave / Compound · **$6M+ raised** · deployed on Base, Arbitrum, Sonic, HyperLiquid...
 
-- Smart contract development (lending/borrowing, flash loans, multiply (looping) positions)
+- Smart contract development (lending/borrowing, flash loans, multiply/looping positions)
 - Full dApp development from design to production
-- Multi-chain deployments
+- On-chain data indexing (Indexer)
+- Liquidation bot development
+- Kubernetes-managed infrastructure - AWS
 
-### 🔄 StableSwap AMM — *Contributor*
+### 🔄 StableSwap AMM - *Contributor*
 > Curve-style AMM for pegged assets
 
 - dApp development and UI integration
