@@ -17,7 +17,7 @@
 
 8 years of full-stack engineering experience with **4+ years specialising in Web3 and DeFi**.
 
-Core contributor to a **DeFi lending protocol similar to Aave and Compound** that raised more than **$6M**, covering smart contract work, full dApp development, and multi-chain deployment across Base, Arbitrum, HyperLiquid... Also contributed to a **Curve-style StableSwap AMM** for pegged assets, working on dApp development and smart contract integration.
+Core contributor to a **DeFi lending protocol** (Aave / Compound-style, **$6M+ raised**) — owning smart contracts, full dApp, on-chain indexers, liquidation bots, deployment, and cloud infrastructure. Also contributed to a **Curve-style StableSwap AMM**, covering smart contract integration and dApp development.
 
 ---
 
